@@ -23,7 +23,7 @@ Available for Freelance
 
 
 <p className="mb-3 text-xl font-light opacity-90">{config.title}</p>
-<p className="mb-8 text-base" style={{ color: config.primary_color }}>6+ Years Experience • 50+ Projects Delivered</p>
+<p className="mb-8 text-base" style={{ color: config.primary_color }}>6+ Years Experience • 10+ Projects Delivered</p>
 
 
 <div className="flex flex-wrap justify-center gap-6 mb-10 text-sm opacity-80">

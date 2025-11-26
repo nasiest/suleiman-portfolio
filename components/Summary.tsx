@@ -103,7 +103,7 @@ export default function Summary() {
             >
               6 years of experience
             </span>{' '}
-            designing, developing, and deploying robust web applications.
+            in planning, designing, developing, testing, and deploying robust web and mobile applications.
             Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, and
             TypeScript, with a proven track record of building scalable
             systems, optimizing performance, and enhancing user experience.

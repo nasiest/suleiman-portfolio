@@ -7,25 +7,25 @@ const skillGroups = [
     title: 'Frontend',
     icon: '⚛️',
     colorKey: 'primaryColor',
-    skills: ['React.js', 'Next.js', 'Redux', 'TypeScript', 'Tailwind', 'Framer']
+    skills: ['HTML5', 'CSS3', 'JavaScript', 'React.js', 'React Native', 'Next.js', 'Redux', 'Zustand', 'TypeScript', 'Tailwind', 'ShadCN UI', 'Bootstrap', 'Material-UI', 'GSAP', 'Flutter', 'Three.js', 'Expo', 'Sass', 'Testing Library', ]
   },
   {
     title: 'Backend',
     icon: '⚙️',
     colorKey: 'accentColor',
-    skills: ['Node.js', 'Express', 'NestJS', 'REST', 'GraphQL', 'WebSockets']
+    skills: ['Node.js', 'Express', 'NestJS', 'TypeScript', 'REST APIs', 'GraphQL', 'WebSockets', 'JWT', 'OAuth', 'Apollo', 'Prisma', 'Sequelize', 'Socket.io', 'tRPC', 'Microservices',  ]
   },
   {
     title: 'Database',
     icon: '💾',
     colorKey: 'primaryColor',
-    skills: ['MongoDB', 'PostgreSQL', 'MySQL', 'Supabase', 'Firebase']
+    skills: ['MongoDB', 'PostgreSQL', 'MySQL', 'Supabase', 'Firebase', 'Redis', 'CouchDB',   'FaunaDB', 'Amazon RDS' , 'DynamoDB', 'SQLite',  ]
   },
   {
     title: 'DevOps',
     icon: '🛠️',
     colorKey: 'accentColor',
-    skills: ['Docker', 'AWS', 'CI/CD', 'Git', 'Nginx', 'Jest']
+    skills: ['Docker', 'AWS', 'DigitalOcean', 'CI/CD', 'Git', 'Nginx', 'Testing Library', 'Postman', 'Swagger', 'Terraform', 'Kubernetes', 'Jenkins', 'GitHub Actions', 'Vagrant', 'Ansible',  'Apache', 'Linux', 'Bash', 'Zsh', 'PowerShell', 'GitLab', ]
   }
 ]
 
